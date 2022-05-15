@@ -1,0 +1,45 @@
+.fullCard {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 10% 33%;
+  padding: 25px;
+  background-color: #ffccff;
+  opacity: 0.8;
+
+  }
+#title
+{
+  text-align: center;
+  font-size: 40px;
+  color: #000033;
+  font-family: Helvetica, sans-serif;
+
+}
+
+#description
+{
+  text-align: center;
+  color: #000033;
+  font-style: italic;
+  font-size: 20px;
+
+}
+
+#survey-form
+{
+  font-size: 30px;
+
+
+}
+#submit{
+  height: 40px;
+  width: 70%;
+  color: white;
+  background-color: blue;
+
+
+}
+.comments{
+
+
+}
