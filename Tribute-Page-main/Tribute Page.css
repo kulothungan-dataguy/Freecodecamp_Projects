@@ -1,0 +1,51 @@
+html {
+  font-size: 10px;
+}
+
+body {
+  /* Native font stack https://getbootstrap.com/docs/4.2/content/reboot/#native-font-stack */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+    "Helvetica Neue", Arial, sans-serif;
+  font-size: 2rem;
+  line-height: 1.5;
+  color: #333;
+  margin: 0;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 4rem;
+  padding: 1rem;
+  box-shadow: 1rem 1rem 2rem rgba(0, 204, 255, 0.19),
+    0.6rem 0.6rem 0.6rem rgba(102, 255, 102, 0.23);
+  background-color: rgba(255, 204, 255, 0.4);
+}
+h2 {
+  font-size: 2rem;
+}
+
+img {
+  border-color: #ffff66;
+  border-width: 5px;
+  border-style: groove;
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-div {
+  text-align: center;
+  font-size: 15px;
+}
+.tribute-info {
+  font-size: 20px;
+}
+a {
+  color: #000;
+}
+a:hover {
+  color: blue;
+}
